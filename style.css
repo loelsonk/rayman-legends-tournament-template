@@ -1,0 +1,166 @@
+@font-face {
+    font-family: GoodGirl;
+    src: url(goodgirl.ttf);
+  }
+
+.bg {
+    position: relative;
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    height: 1200px;
+    width: 1920px;
+}
+
+.name {
+    font-size: 26.337px;
+    font-family: "GoodGirl";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    text-shadow: 6.572px 8.945px 10.58px rgba(0, 0, 0, 0.74);
+    position: absolute;
+    z-index: 7;
+    letter-spacing: 2px;
+}
+
+.match-4-1 {
+    left: 43.986px;
+    top: 166.196px;
+}
+
+.match-4-2 {
+    left: 43.986px;
+    top: 219.196px;
+}
+
+.match-4-3 {
+    left: 43.986px;
+    top: 394.2px;
+}
+
+.match-4-4 {
+    left: 43.986px;
+    top: 451.2px;
+}
+
+.match-4-winner-1 {
+    left: 406px;
+    top: 298.2px;
+}
+
+.match-4-winner-2 {
+    left: 406px;
+    top: 355.2px;
+}
+
+
+.match-3-1 {
+    left: 43.986px;
+    top: 758.2px;
+}
+
+.match-3-2 {
+    left: 43.986px;
+    top: 811.2px;
+}
+
+.match-3-3 {
+    left: 43.986px;
+    top: 991.2px;
+}
+
+.match-3-4 {
+    left: 43.986px;
+    top: 1043.2px;
+}
+
+.match-3-winner-1 {
+    left: 406px;
+    top: 893.2px;
+}
+
+.match-3-winner-2 {
+    left: 406px;
+    top: 948.2px;
+}
+
+
+.match-1-1 {
+    right: 20px;
+    top: 166.196px;
+}
+
+.match-1-2 {
+    right: 20px;
+    top: 219.196px;
+}
+
+.match-1-3 {
+    right: 20px;
+    top: 394.2px;
+}
+
+.match-1-4 {
+    right: 20px;
+    top: 451.2px;
+}
+
+.match-1-winner-1 {
+    right: 375px;
+    top: 298.2px;
+}
+
+.match-1-winner-2 {
+    right: 375px;   
+    top: 355.2px;
+}
+
+.match-2-1 {
+    right: 20px;
+    top: 758.2px;
+}
+
+.match-2-2 {
+    right: 20px;
+    top: 811.2px;
+}
+
+.match-2-3 {
+    right: 20px;
+    top: 991.2px;
+}
+
+.match-2-4 {
+    right: 20px;
+    top: 1043.2px;
+}
+
+.match-2-winner-1 {
+    right: 375px;
+    top: 893.2px;
+}
+
+.match-2-winner-2 {
+    right: 375px;
+    top: 948.2px;
+}
+
+.match-5-winner-1 {
+    right: 672px;
+    top: 539.2px;
+}
+
+.match-5-winner-2 {
+    right: 672px;
+    top: 591.2px;
+}
+
+.match-6-winner-1 {
+    left: 691px;
+    top: 713.2px;
+}
+
+.match-6-winner-2 {
+    left: 691px;
+    top: 771.2px;
+}
